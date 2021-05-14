@@ -1,0 +1,37 @@
+Database design - links
+
+Brief Timeline
+
+Features/Variables:
+-UD Sheets
+	-No. of plies
+	-Shape of plies (Filler plies - Circle,oval,Cross,etc)
+	-Ply arrangement/sequence
+	-Ply material (Grade of UD sheets)
+-Mould (diff types, assume same)
+-Pressure, Temp
+
+
+Goal/Indicators:
+-Weight
+-Price?
+-Thickness of helmet
+	-Measured at different points
+-Ballistic Performance
+	-V50 (speed of bullet at which 50% of bullets are caught, 50% penetrate)
+	-Taken at differet points of the helmet
+
+
+Goal of database:
+Customer vs engineer database
+Shape - uniform thickness
+Material vs performance
+-Key in requirements, database to show up the optimal materials/factors
+
+Ideas:
+CNN using images of bottom-light up helmet
+Input helmet image - output expected ballistic performance
+
+
+
+
