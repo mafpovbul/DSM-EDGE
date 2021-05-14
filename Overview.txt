@@ -19,6 +19,7 @@ Goal/Indicators:
 	-Measured at different points
 -Ballistic Performance
 	-V50 (speed of bullet at which 50% of bullets are caught, 50% penetrate)
+	-E.g. shot at 10 diff locations on the same helmet, 50% of bullets are caught, 50% penetrate
 	-Taken at differet points of the helmet
 
 
@@ -29,7 +30,7 @@ Material vs performance
 -Key in requirements, database to show up the optimal materials/factors
 
 Ideas:
-CNN using images of bottom-light up helmet
+CNN using light-table image of helmet
 Input helmet image - output expected ballistic performance
 
 
